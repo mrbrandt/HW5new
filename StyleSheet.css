@@ -1,0 +1,7 @@
+﻿body {
+}
+
+.deletedschoolshighlight {color: Red; font-style: italic; font-weight: bold; text-decoration: underlined;}
+
+#container {color:White; background-color: Navy; border: 1px solid black;}
+#main {color:navy; background-color: White; border: 1px solid black;}
